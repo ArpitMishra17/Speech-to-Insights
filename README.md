@@ -1,8 +1,8 @@
-#Speech to Insights
+# Speech to Insights
 
 Convert audio to insights using cutting-edge AI models. This project transcribes audio files with OpenAI's Whisper and generates intelligent responses using multiple LLMs via Hugging Face.
 
-##🚀 Features
+## 🚀 Features
 - 🎙️ Audio-to-text conversion (Whisper ASR)
 
 - 🧠 Multi-LLM support (Falcon, Mistral, Llama 2, Zephyr)
@@ -13,7 +13,7 @@ Convert audio to insights using cutting-edge AI models. This project transcribes
 
 - 📱 Responsive modern UI
 
-##⚙️ Tech Stack
+## ⚙️ Tech Stack
 - Backend: Python + FastAPI + Whisper
 
 - Frontend: React + Tailwind CSS + shadcn/ui
@@ -22,7 +22,7 @@ Convert audio to insights using cutting-edge AI models. This project transcribes
 
 - Tools: FFmpeg, Git
 
-##⚡ Quick Start
+## ⚡ Quick Start
 ```shell
 # Backend
 cd backend
@@ -34,7 +34,7 @@ cd frontend
 npm install
 npm run start
 ```
-##📝 Requirements
+## 📝 Requirements
 - OpenAI Whisper (pip install git+https://github.com/openai/whisper.git)
 
 - Hugging Face API key (in .env)
